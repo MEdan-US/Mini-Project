@@ -15,6 +15,6 @@ Quy tắc khi commit lên repo:
 
 - [loại_commit]: Mô tả ngắn gọn bằng tiếng Việt, viết thường, không dấu chấm cuối câu
 - loại commit gồm: add (thêm tính năng), fix (sửa lỗi),..
-4. Các bước tối thiểu phải đạt yêu cầu trong file colab đã viết. Đặt tên biến ngắn gọn, có nghĩa, bằng tiếng anh.
+4. Các bước yêu cầu tối thiểu phải đạt đã viết trong file ipynb. Đặt tên biến ngắn gọn, có nghĩa, bằng tiếng anh.
 5. Khi nào muốn merge phải liên hệ với trưởng nhóm.
    
