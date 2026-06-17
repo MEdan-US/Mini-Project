@@ -17,4 +17,4 @@ Quy tắc khi commit lên repo:
 - loại commit gồm: add (thêm tính năng), fix (sửa lỗi),..
 4. Các bước yêu cầu tối thiểu phải đạt đã viết trong file ipynb. Đặt tên biến ngắn gọn, có nghĩa, bằng tiếng anh.
 5. Khi nào muốn merge phải liên hệ với trưởng nhóm.
-   
+
